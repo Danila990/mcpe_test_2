@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Start Loading Page_pl
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pl
+  m_SharedData: {fileID: 11400000, guid: 8cac893ce639a004fba74c5c2399139a, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 224211668992
+    m_Localized: "B\u0142\u0105d pobierania. Serwer nie dzia\u0142a lub jest w trakcie
+      konserwacji"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62604476059648
+    m_Localized: "W najbli\u017Cszym czasie b\u0119d\u0119 pobiera\u0142."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9422640988020736
+    m_Localized: Otwarty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9435062603866112
+    m_Localized: Gotowa do uruchomienia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28621187283062784
+    m_Localized: "Spr\xF3buj ponownie"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

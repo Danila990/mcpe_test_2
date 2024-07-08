@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Indonesian (id)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Indonesian (id)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f02114e62c172344490fa3503c6b4a8f
+  m_SerializeEntries:
+  - m_GUID: 1f7132493f6c00c4d9cddc5406d7fab5
+    m_Address: Privacy Policy Page_id
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-id
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 143bfc5dafe543643a4d46635c573dc2
+    m_Address: Common Texts_id
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-id
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8052fe6d9a6fe014dbaffd9e189aa5e4
+    m_Address: Start Loading Page_id
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-id
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6e533748b5569974fbaf28af1731fd6c
+    m_Address: Open Mod Page_id
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-id
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c8ee589087cef6045a1f3dea82ef8ee9
+    m_Address: Loading Errors_id
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-id
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 368ddc56b0b48bb429997cd6c34af358
+    m_Address: Categories List Page_id
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-id
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0bc70d550d494f4499745643af4ba4f9
+    m_Address: Addons List Page_id
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-id
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c0a40540885c7f54b87d60695d279b51
+    m_Address: Addon Page_id
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-id
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8218d23cabf3dbe4bb88f56cf9237753
+    m_Address: Long Instruction Page_id
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-id
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e1e0cd0e3ca8594409610baaac877c16
+    m_Address: Short Instruction Page_id
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-id
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 17186e86555f6d94bb8e93cbf55961e1
+    m_Address: Settings Page_id
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-id
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ef9a18ad787aff647a1793db6946462f
+    m_Address: Report Box_id
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-id
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7ee8b09a494a6d947b4eb7cc7504c941
+    m_Address: Favorite Addons List Page_id
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-id
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b875568b58a5e3740bc913bf476299bc
+    m_Address: Onboarding Page_id
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-id
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: c78dfab52dd09d74285bbc069383845d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: dfe708282d179d2409df3ce195b32fcd, type: 2}
+    - {fileID: 11400000, guid: cb59620845405bb45b8911f979693422, type: 2}

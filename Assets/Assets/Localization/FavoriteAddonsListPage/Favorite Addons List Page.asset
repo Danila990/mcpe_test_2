@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: Favorite Addons List Page
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: b37c705131c41304bb04834101658b0d, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: ba86507c7d4e06c4f9c6edbeef2f1687, type: 2}
+  - {fileID: 11400000, guid: d2942937674b6d14980a962bcbbf9efe, type: 2}
+  - {fileID: 11400000, guid: 3936ff43a75a37047906c9fd0f182585, type: 2}
+  - {fileID: 11400000, guid: 7ee8b09a494a6d947b4eb7cc7504c941, type: 2}
+  - {fileID: 11400000, guid: d1c2fe894b2a31f4bbe8752436de953c, type: 2}
+  - {fileID: 11400000, guid: e246e43beb40b4047b8c9ad7a6542386, type: 2}
+  - {fileID: 11400000, guid: 334e4e52d0858554b85e32f0d3fe454d, type: 2}
+  - {fileID: 11400000, guid: 92764b058ae84744c91e8b4c5406fb2f, type: 2}
+  - {fileID: 11400000, guid: 8f636c574db2d56419e1d86530b09064, type: 2}
+  - {fileID: 11400000, guid: 8990d2ea93c1d034bacba0cc23aa33f1, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 1

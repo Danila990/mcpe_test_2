@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: Privacy Policy Page
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 527e7b05b9750424caf2276d459315b7, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: a503e6f574be027449aca8b68dba40e7, type: 2}
+  - {fileID: 11400000, guid: 176094a864ff8eb4bbc8a21578c76501, type: 2}
+  - {fileID: 11400000, guid: c626646d5d8a5924e9929178253fc416, type: 2}
+  - {fileID: 11400000, guid: 1f7132493f6c00c4d9cddc5406d7fab5, type: 2}
+  - {fileID: 11400000, guid: 60933f49f7dd4b340830fe27f41bad2b, type: 2}
+  - {fileID: 11400000, guid: 5baff1571ab98ee4b86995620ff1cb4b, type: 2}
+  - {fileID: 11400000, guid: 589893dc29b44ae40a496a9cefa0e8fe, type: 2}
+  - {fileID: 11400000, guid: 73b8279997a7f2b429bb6aa547e43911, type: 2}
+  - {fileID: 11400000, guid: ac7b708d25a1014449ab9351ce2392c0, type: 2}
+  - {fileID: 11400000, guid: c6c2dfb3457396d48a985a97a229ba1f, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 1

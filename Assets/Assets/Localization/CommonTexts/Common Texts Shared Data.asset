@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Common Texts Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Common Texts
+  m_TableCollectionNameGuidString: aed7e015938ba064091dc9f563cbe6b8
+  m_Entries:
+  - m_Id: 9520457492455424
+    m_Key: AddonsText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5908616604192768
+    m_Key: ContactUsText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 696234446848
+    m_Key: FavoriteListButtonText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2921161723904
+    m_Key: InstructionDropdownText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1755581419520
+    m_Key: InstructionAddonDropdownOptionText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1528686350336
+    m_Key: InstructionSkinsDropdownOptionText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1156261515264
+    m_Key: InstructionWorldDropdownOptionText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1818079387357184
+    m_Key: SettingsText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2003347345408
+    m_Key: PrivacyPolicyText1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73933319169613824
+    m_Key: PrivacyPolicyText2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73933431337885696
+    m_Key: YesText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73933441542627328
+    m_Key: NoText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73933445904703488
+    m_Key: OkText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73934755794231296
+    m_Key: RateUsText
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1691233979021

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98a72b29d16dbd34e9d49ac2a9c3e22b, type: 3}
+  m_Name: GeneralAdSettings
+  m_EditorClassIdentifier: 
+  <IsTestAds>k__BackingField: 0
+  <AdCoolDown>k__BackingField: 5
+  <ApplovinSettings>k__BackingField: {fileID: 11400000, guid: 5e411795e1274bc4db4fe85e2a6b5cda, type: 2}
+  <AdmobSettings>k__BackingField: {fileID: 11400000, guid: e0882b6548bd31747972b24407d2b32a, type: 2}
+  <UnityAdsSettings>k__BackingField: {fileID: 11400000, guid: 2daba198bae8982498c5128b3175667f, type: 2}

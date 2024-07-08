@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Addon Page_id
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: id
+  m_SharedData: {fileID: 11400000, guid: f1d3f71411c10be48b7b44832f77946c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 9178091520
+    m_Localized: Deskripsi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 133027500032
+    m_Localized: Descarregar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 260672753664
+    m_Localized: Versi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 642287308800
+    m_Localized: Anda dapat menginstal addon setelah menonton iklan.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 806670471168
+    m_Localized: 'Versi yang didukung:
+
+      {0}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26769181531246592
+    m_Localized: Versi yang didukung
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

@@ -1,0 +1,4 @@
+<linker>
+  <!--Preserve types and members in an assembly-->
+  <assembly fullname="GeneralData" preserve="all"/>
+</linker>

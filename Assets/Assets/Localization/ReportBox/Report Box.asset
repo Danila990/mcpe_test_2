@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: Report Box
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: b2a459067ec43d543b8bacceba427c72, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 593c3ad1e95eb65439eed06faf1b00ec, type: 2}
+  - {fileID: 11400000, guid: 32bcbd32d7dbccd4591e8efd3e3349a5, type: 2}
+  - {fileID: 11400000, guid: 00fd6152ee9551d4d9f37c8215597f0d, type: 2}
+  - {fileID: 11400000, guid: ef9a18ad787aff647a1793db6946462f, type: 2}
+  - {fileID: 11400000, guid: 643faa5556f15e64fb41109fc7ea290b, type: 2}
+  - {fileID: 11400000, guid: aa8377d994afea8478993e916ac941ab, type: 2}
+  - {fileID: 11400000, guid: aa9506e83e0dfde4ca881a869aead14a, type: 2}
+  - {fileID: 11400000, guid: a4ab588508b22244cbf04b25676395b7, type: 2}
+  - {fileID: 11400000, guid: aefd7678fc275d742b3fbe69ebcafbdf, type: 2}
+  - {fileID: 11400000, guid: 3c2b38700315143409cbd2df087a9984, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 1

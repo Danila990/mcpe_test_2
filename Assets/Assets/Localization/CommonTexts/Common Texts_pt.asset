@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Common Texts_pt
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt
+  m_SharedData: {fileID: 11400000, guid: aed7e015938ba064091dc9f563cbe6b8, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 696234446848
+    m_Localized: Favorito
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1156261515264
+    m_Localized: Mundos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1528686350336
+    m_Localized: Peles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1755581419520
+    m_Localized: Complementos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2003347345408
+    m_Localized: "Pol\xEDtica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2921161723904
+    m_Localized: FAQ
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1818079387357184
+    m_Localized: "Defini\xE7\xF5es"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5908616604192768
+    m_Localized: Contactar-nos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9520457492455424
+    m_Localized: Complementos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73933319169613824
+    m_Localized: "Pol\xEDtica de privacidade"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73933431337885696
+    m_Localized: Sim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73933441542627328
+    m_Localized: "N\xE3o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73933445904703488
+    m_Localized: Ok
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73934755794231296
+    m_Localized: Avalie-nos!
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1
